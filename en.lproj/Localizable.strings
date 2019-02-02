@@ -1,0 +1,18 @@
+
+/*  */
+"error_auth_incorrectEmailLength" = "Email should be longer than 5 and shorter than 254 symbols";
+
+/*  */
+"error_auth_incorrectPasswordLength" = "Password should be longer than 5 and shorter than 50 symbols";
+
+/*  */
+"error_auth_invalidEmail" = "Incorrectly formatted email";
+
+/*  */
+"error_auth_accountBlocked" = "This account was blocked";
+
+/*  */
+"error_auth_accountExists" = "User already exists";
+
+/*  */
+"error_auth_incorrectCredentials" = "Incorrect credentials";
